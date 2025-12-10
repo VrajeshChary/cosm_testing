@@ -1,8 +1,5 @@
 # Computer-Oriented Statistical Methods - Hypothesis Testing on Payments Dataset
 
-![Status: Experimenting](https://img.shields.io/badge/status-experimental-yellow)
-![Dataset](https://img.shields.io/badge/dataset-88MB-red)
-
 Welcome to **cosm_testing** — a sleek, data-driven notebook project that explores payroll statistics, hypothesis testing, and multiple linear regression using a real-world dataset. This repo contains a polished Jupyter notebook (`ml.py.ipynb`) with exploratory analysis, inferential statistics, and visualization recipes, plus the raw `data.csv` used for all analyses.
 
 Why you'll love this repo
