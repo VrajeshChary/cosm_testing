@@ -1,4 +1,4 @@
-# cosm_testing
+# Computer-Oriented Statistical Methods - Hypothesis Testing on Payments Dataset
 
 ![Status: Experimenting](https://img.shields.io/badge/status-experimental-yellow)
 ![Dataset](https://img.shields.io/badge/dataset-88MB-red)
